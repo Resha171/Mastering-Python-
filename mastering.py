@@ -1,3 +1,4 @@
+Print ("Learning Python")
 # print( "Hello, World!" )
 # print(type("Hello, World!")) # data type of string
 # print(type(42.4))# data type of float
