@@ -1,0 +1,16 @@
+Logger_name: root CRITICAL This is a critical message
+Logger_name: root CRITICAL This is a critical message
+Logger_name: root CRITICAL This is a critical message
+Logger_name: 2026-09-04 17:41:28,957 root CRITICAL This is a critical message
+Logger_name: (2026-09-04 17:43:53,750) => | root | CRITICAL => This is a critical message
+Logger_name: (2026-09-04 17:44:50,453) => | root | CRITICAL => 'This is a critical message'
+Logger_name: (2026-09-04 17:45:35,900) => | root | ERROR => 'This is a error message'
+Logger_name: (2026-09-04 17:45:35,900) => | root | WARNING => 'This is a warning message'
+Logger_name: (04 - September - 2026 , 17:59:55) => | root | CRITICAL => 'This is a critical message'
+Logger_name: (04 - September - 2026 , 18:01:09) => | root | ERROR => 'This is a error message'
+Logger_name: (04  September  2026 , 18:03:27) => | root | ERROR => 'This is a error message'
+Logger_name: (04  September  2026 , 18:05:18) => | My_Logger | WARNING => 'This is a warning message'
+Logger_name: (04  September  2026 , 21:40:48) => | My_Logger | WARNING => 'This is a warning message'
+Logger_name: (04  September  2026 , 21:41:02) => | My_Logger | WARNING => 'This is a warning message'
+Logger_name: (04  September  2026 , 21:41:48) => | My_Logger | WARNING => 'This is a warning message'
+Logger_name: (04  September  2026 , 21:43:45) => | My_Logger | WARNING => 'This is a warning message'

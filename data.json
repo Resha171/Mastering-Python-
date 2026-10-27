@@ -1,0 +1,14 @@
+{
+    "President": {
+        "Name": "John Doe",
+        "Age": 55,
+        "Term": 2,
+        "Leave": "New York"
+    },
+    "Vice President": {
+        "Name": "Jane Smith",
+        "Age": 50,
+        "Term": 1,
+        "Leave": "California"
+    }
+}
